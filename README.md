@@ -19,7 +19,7 @@ cd AutoCompleteApp
 pip install -r requirements.txt
 ```
 
-3. Ensure that the model file `modellongdata.pt` is in the project directory. This file contains the trained prediction model.
+3. Ensure that the model file [`model_long_data.pt`](https://disk.yandex.ru/d/kE3At_bBlx0lHw) is in the project directory. The model can be downloaded from 
 
 ## Usage
 
