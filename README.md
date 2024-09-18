@@ -2,6 +2,8 @@
 
 AutoCompleteApp is a Python application designed for text auto-completion based on user input. Utilizing a classic Decoder architecture, the application predicts the next words in a sentence, enhancing the user's typing experience. The prediction model is trained on a dataset derived from Wikipedia texts, making it capable of generating relevant and contextual word suggestions.
 
+<img src="images/image1.png" alt="App" width="400"/>
+
 ## Installation
 
 To set up the AutoCompleteApp on your local machine, follow these steps:
