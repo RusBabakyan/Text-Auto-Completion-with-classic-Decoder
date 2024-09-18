@@ -16,7 +16,6 @@ print(DEVICE)
 D_MODEL = 800
 N_HEADS = 10
 N_BLOCKS = 6
-# BATCH = len(train_data)//1000
 BATCH = 80
 model = TransformerDecoder(VOCAB_SIZE, D_MODEL, N_HEADS, N_BLOCKS).to(DEVICE)
 train_dataset = CustomDataset(train_data, tokenizer)
